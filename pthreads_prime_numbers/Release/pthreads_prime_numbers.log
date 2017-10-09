@@ -1,0 +1,6 @@
+﻿  main.c
+  Generating code
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  pthreads_prime_numbers.vcxproj -> C:\Users\Jim\Documents\Visual Studio 2017\Projects\CIS265\pthreads_prime_numbers\Release\pthreads_prime_numbers.exe
+  pthreads_prime_numbers.vcxproj -> C:\Users\Jim\Documents\Visual Studio 2017\Projects\CIS265\pthreads_prime_numbers\Release\pthreads_prime_numbers.pdb (Full PDB)
